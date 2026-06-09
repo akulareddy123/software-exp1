@@ -1,0 +1,6 @@
+git status
+git add README.md
+git add .
+git commit.m"Add a Project description to readme"
+git push origin main
+git push origin master
